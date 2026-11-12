@@ -1,1 +1,2 @@
-# selenium-autotests
+# Автотесты на Selenium
+Задачи из курса по selenium
